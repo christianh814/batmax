@@ -1,0 +1,4 @@
+[submodule "batmaxblog/public"]
+	path = batmaxblog/public
+	url = git@github.com:christianh814/christianh814.github.io-batmax.git
+	branch = main

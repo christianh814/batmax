@@ -1,0 +1,5 @@
+baseURL = 'https://christianh814.github.io/batmaxblog/'
+languageCode = 'en-us'
+title = 'Batmax'
+
+theme = 'hugo-tranquilpeak-theme'
